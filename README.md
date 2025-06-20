@@ -30,10 +30,6 @@
 
 - 🧠 AI/ML Engineering student passionate about deep learning
 - 🎓 Studying at **Dr. Mahalingam College of Engineering and Technology**
-- 💼 Former Intern at **CodTech IT Solutions**
-- 👨‍💻 Event Coordinator at **INNOVIYAL AIML Association**
-- 🤖 Currently working on **Medical Diagnosis using Deep Learning**
-- 🌱 Learning advanced concepts in **Bidirectional LSTM models**
 - 🔭 Interested in **Neural Computing & AI applications**
 - 📊 Data enthusiast with experience in **NLP** and **predictive modeling**
 - 🎯 Goal: Contributing to innovative AI solutions that solve real-world problems
