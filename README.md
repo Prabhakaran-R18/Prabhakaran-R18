@@ -14,7 +14,7 @@
 <img align="right" alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🧠 **AI/ML Engineering Student** at Dr. Mahalingam College of Engineering and Technology
-- 🎓 **CGPA**: 9.20/10 | **Specialization**: Computer Science & Engineering (AI/ML)
+- 🎓 **Specialization**: Computer Science & Engineering (AI/ML)
 - 🌱 Exploring **Bidirectional LSTM models** and **Neural Computing**
 - 💡 Passionate about **NLP**, **Computer Vision**, and **Predictive Modeling**
 - 🎯 Goal: Contributing to innovative AI solutions for real-world problems
