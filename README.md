@@ -122,13 +122,20 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements
+## 🎓 Certifications & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prabhakaran-R18&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Java_Programming-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-IoT_Introduction-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Great_Learning-Machine_Learning-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenEDG-Python_Essentials-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPTEL-Programming_in_C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
 ---
+
 
 ## 🚀 Featured Projects
 
