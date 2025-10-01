@@ -246,7 +246,7 @@ graph LR
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prabhakaran-r/prabhakaran-r/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Prabhakaran-R18/Prabhakaran-R18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
