@@ -109,15 +109,15 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prabhakaran-r&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakaran-r&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF&sideLabels=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prabhakaran-R18&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhakaran-R18&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF&sideLabels=FFFFFF" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakaran-r&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabhakaran-r&theme=radical&utcOffset=5.5"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakaran-R18&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prabhakaran-R18&theme=radical&utcOffset=5.5"/>
 </div>
 
 ---
@@ -125,7 +125,7 @@ me.say_hi()
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prabhakaran-r&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Prabhakaran-R18&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </div>
 
 ---
@@ -136,13 +136,13 @@ me.say_hi()
   
 | 🔥 Project | 📝 Description | 💻 Tech Stack |
 |:-----------|:---------------|:--------------|
-| [🚫 Spam Mail Detection](https://github.com/prabhakaran-r/spam-mail-detection) | ML model to detect spam emails with high accuracy | Python, NLP, scikit-learn |
-| [🏥 Medical Diagnoser](https://github.com/prabhakaran-r/medical-diagnoser) | AI-powered medical diagnosis assistant | Python, TensorFlow, Keras |
+| [🚫 Spam Mail Detection](https://github.com/Prabhakaran-R18/spam-mail-detection) | ML model to detect spam emails with high accuracy | Python, NLP, scikit-learn |
+| [🏥 Medical Diagnoser](https://github.com/Prabhakaran-R18/medical-diagnoser) | AI-powered medical diagnosis assistant | Python, TensorFlow, Keras |
 
 </div>
 
 <div align="center">
-  <a href="https://github.com/prabhakaran-r?tab=repositories">
+  <a href="https://github.com/Prabhakaran-R18?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
