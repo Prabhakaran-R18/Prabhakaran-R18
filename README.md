@@ -1,242 +1,270 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey+There!+%F0%9F%91%8B;I'm+Prabhakaran+R;AI%2FML+Engineering+Student;Building+Tomorrow's+Intelligence" alt="Typing SVG" />
-</h1>
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="180">
-</div>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Engineering-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep-Learning-FF6B9D?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer-Vision-9D4EDD?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-Expert-06FFA5?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1d4ed8,100:3b82f6&height=190&section=header&text=Prabhakaran%20R&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Data%20Science%20%7C%20Full-Stack&descAlignY=52&descSize=16" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-tech-arsenal">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-github-statistics">Stats</a> •
-  <a href="#-certifications--credentials">Certifications</a> •
-  <a href="#-lets-connect">Contact</a>
+  <a href="https://github.com/Prabhakaran-R18">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Prabhakaran%20R%20%F0%9F%91%8B;CSE%20(AI%20%26%20ML)%20Final%20Year%20Student%20%F0%9F%8E%93;Machine%20Learning%20%26%20Data%20Science%20Enthusiast%20%F0%9F%A4%96;Graph%20Neural%20Networks%20%26%20RAG%20Systems%20%E2%9A%A1;Turning%20research%20ideas%20into%20shipped%20products%20%F0%9F%9A%80" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+  </a>
 </p>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="AI Coding" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Prabhakaran R"
-        self.role = "AI/ML Engineering Student"
-        self.college = "MCET"
-        self.specialization = "CSE (AI/ML)"
-        self.current_focus = [
-            "Bidirectional LSTM Models",
-            "Neural Computing",
-            "Computer Vision",
-            "NLP Applications",
-        ]
-        self.interests = [
-            "Deep Learning",
-            "Predictive Modeling",
-            "Real-world AI Solutions",
-        ]
-
-    def say_hi(self):
-        print("Let's innovate together!")
-
-
-me = AIEngineer()
-me.say_hi()
-```
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Arsenal
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logoColor=white" />
-</p>
-
-### 🤖 AI/ML & Data Science
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-```mermaid
-graph LR
-    A[AI/ML Projects] --> B[Bidirectional LSTM]
-    A --> C[Computer Vision]
-    A --> D[NLP Applications]
-    B --> E[Time Series Analysis]
-    C --> F[Object Detection]
-    D --> G[Sentiment Analysis]
-    style A fill:#00D9FF,stroke:#FFFFFF,stroke-width:2px,color:#000000
-    style B fill:#FF6B9D,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF
-    style C fill:#9D4EDD,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF
-    style D fill:#06FFA5,stroke:#FFFFFF,stroke-width:2px,color:#000000
-    style E fill:#FFD700,stroke:#FFFFFF,stroke-width:2px,color:#000000
-    style F fill:#FFD700,stroke:#FFFFFF,stroke-width:2px,color:#000000
-    style G fill:#FFD700,stroke:#FFFFFF,stroke-width:2px,color:#000000
-```
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|:---|:---|:---|
-| 🚫 [Spam Mail Detection](https://github.com/Prabhakaran-R18/spam-mail-detection) | ML model to detect spam emails with high accuracy | Python, NLP, scikit-learn |
-| 🏥 [Medical Diagnoser](https://github.com/Prabhakaran-R18/medical-diagnoser) | AI-powered medical diagnosis assistant | Python, TensorFlow, Keras |
 
 <p align="center">
-  <a href="https://github.com/Prabhakaran-R18?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/prabhakaran-r18/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Prabha_1812/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-2563EB?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@Prabhakaran_R" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Read-2563EB?style=for-the-badge&logo=medium&logoColor=white&labelColor=0a0a0a" alt="Medium" />
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Prabhakaran-R18" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=3B82F6&labelColor=0a0a0a" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prabhakaran-R18&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+<h2 align="center">🔵 About Me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Learning+deeply.+Building+honestly.+Shipping+consistently." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+</p>
+
+<p align="center">
+  Hey! I'm <b>Prabhakaran R</b>, a final-year <b>B.E. Computer Science and Engineering (AI &amp; ML)</b> student at
+  <b>Dr. Mahalingam College of Engineering and Technology, Pollachi</b>.<br />
+  I work on graph neural networks, retrieval-augmented generation systems, and end-to-end ML pipelines —
+  taking ideas from a research paper all the way to a deployed, usable product.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Degree-B.E._CSE_(AI_%26_ML)-2563EB?style=flat-square" alt="Degree" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CGPA-9.34_|_Dept._Rank_1-111111?style=flat-square" alt="CGPA" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-ML_%26_Data_Science-2563EB?style=flat-square" alt="Focus" />
+</p>
+
+<p align="center">
+  💬 <b>Let's Discuss:</b> Python, PyTorch, Graph Neural Networks, RAG &amp; LLMs, FastAPI, React &amp; System Design.<br />
+  ⚡ <b>Philosophy:</b> <i>"A model is only as good as the problem it actually solves."</i>
+</p>
+
+<table width="100%" border="0" align="center">
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🔭 Flagship Project</h4>
+  <p><a href="https://github.com/Prabhakaran-R18/gnn-fraud-detection" target="_blank"><b>GNN Fraud Detection</b></a><br /><sub>Bitcoin illicit-transaction detection on Elliptic</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🌱 Active Deep Dives</h4>
+  <p><b>Agentic RAG &amp; Multi-Agent Systems</b><br /><sub>Concept drift, DSA &amp; System Design</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>👥 Leadership</h4>
+  <p><b>Head — INNOVIYAL AI/ML Association</b><br /><sub>Bootcamps, workshops &amp; peer mentoring</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>✍️ Writing</h4>
+  <p><a href="https://medium.com/@Prabhakaran_R" target="_blank"><b>@Prabhakaran_R on Medium</b></a><br /><sub>ML breakdowns &amp; build logs</sub></p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🔵 Featured Project Spotlight</h2>
+
+<table width="100%" border="0" align="center">
+<tr>
+<td align="center" style="padding: 22px;">
+  <h3>🕸️ GNN-Based Bitcoin Fraud Detection</h3>
+  <p><i>An end-to-end graph learning pipeline that flags illicit Bitcoin transactions on the Elliptic dataset using GraphSAGE and PyTorch Geometric — served through an interactive Streamlit demo.</i></p>
+  <br />
+  <p>
+    <img src="https://img.shields.io/badge/PyTorch_Geometric-0a0a0a?style=flat-square&logo=pytorch&logoColor=3B82F6" alt="PyG" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/GraphSAGE-0a0a0a?style=flat-square&logoColor=3B82F6" alt="GraphSAGE" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Streamlit-0a0a0a?style=flat-square&logo=streamlit&logoColor=3B82F6" alt="Streamlit" />
+  </p>
+  <p>
+    <a href="https://github.com/Prabhakaran-R18/gnn-fraud-detection" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Prabhakaran-R18?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/All%20Projects-🚀%20Explore-111111?style=for-the-badge&logo=github&logoColor=3B82F6&labelColor=0a0a0a" alt="All Projects" />
+    </a>
+  </p>
+</td>
+</tr>
+</table>
+
+<table width="100%" border="0" align="center">
+<tr>
+<td width="50%" align="center" style="padding: 16px;">
+  <h4>📚 IntelliStudy AI</h4>
+  <p><sub>Multi-agent RAG study assistant — FastAPI, React/Vite, PostgreSQL + pgvector, sentence-transformers, with NLI-based faithfulness scoring and auto-generated quizzes.</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 16px;">
+  <h4>🎯 SkillPulse</h4>
+  <p><sub>SBERT-powered job–skill matching tool that scores a résumé against a job description and surfaces the real gaps.</sub></p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🧩 LeetCode Problem Solving</h2>
+
+<p align="center"><i>Live real-time tracker of coding challenges &amp; algorithmic problem-solving milestones.</i></p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Prabha_1812/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Prabha_1812?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Prabha_1812/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Prabha_1812/" target="_blank">
+    <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-2563EB?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prabhakaran-R18&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhakaran-R18&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF&sideLabels=FFFFFF" />
-</div>
+<p align="center"><b>Core Programming Languages</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
+  </a>
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakaran-R18&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prabhakaran-R18&theme=radical&utcOffset=5.5"/>
-</div>
+<p align="center"><b>AI / ML &amp; Data Science</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" width="100%" style="max-width: 340px;" alt="AI and ML" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch_Geometric-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=3B82F6" alt="PyG" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hugging_Face-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=3B82F6" alt="Hugging Face" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-0a0a0a?style=for-the-badge&logo=langchain&logoColor=3B82F6" alt="LangChain" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=3B82F6" alt="Pandas" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=3B82F6" alt="NumPy" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-0a0a0a?style=for-the-badge&logo=streamlit&logoColor=3B82F6" alt="Streamlit" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhakaran-R18&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-</div>
+<p align="center"><b>Backend, Frontend &amp; Databases</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,vite,tailwind,mysql,postgres,mongodb&theme=dark" width="100%" style="max-width: 460px;" alt="Web and Databases" />
+  </a>
+</p>
+
+<p align="center"><b>Tools, Cloud &amp; DevOps</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,aws,figma&theme=dark" width="100%" style="max-width: 420px;" alt="Tools" />
+  </a>
+</p>
 
 ---
 
-## 🎓 Certifications & Credentials
+<h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" /><br>
-      <sub><b>IBM AI Fundamentals</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Great_Learning-Machine_Learning-FF6F00?style=for-the-badge&logoColor=white" /><br>
-      <sub><b>ML Fundamentals</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/OpenEDG-Python_Essentials-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <sub><b>Python Programming</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/NPTEL-Programming_in_C-00599C?style=for-the-badge&logo=c&logoColor=white" /><br>
-      <sub><b>C Programming</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Udemy-Java_Programming-A435F0?style=for-the-badge&logo=udemy&logoColor=white" /><br>
-      <sub><b>Complete Java Course</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Cisco-IoT_Introduction-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /><br>
-      <sub><b>Introduction to IoT</b></sub>
-    </td>
-  </tr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhakaran-R18&show_icons=true&bg_color=0a0a0a&title_color=3b82f6&text_color=f3f4f6&icon_color=3b82f6&border_color=3b82f6&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakaran-R18&layout=compact&bg_color=0a0a0a&title_color=3b82f6&text_color=f3f4f6&border_color=3b82f6&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhakaran-R18&theme=dark&hide_border=false&border=3b82f6&background=0a0a0a&ring=3b82f6&fire=60a5fa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prabhakaran-R18&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" style="max-width: 720px;" alt="Trophies" />
+</p>
+
+---
+
+<h2 align="center">⚡ Contribution Journey</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</p>
+
+---
+
+<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
+
+<p align="center"><i>Whether you want to talk graph learning, RAG architectures, open-source collaboration, or just say hello — my inbox is always open!</i></p>
+
+<table border="0" align="center">
+<tr>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://www.linkedin.com/in/prabhakaran-r18/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  <br />
+  <sub><b>Professional Network</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://medium.com/@Prabhakaran_R" target="_blank">
+    <img src="https://skillicons.dev/icons?i=medium" width="60" height="60" alt="Medium" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Medium-@Prabhakaran__R-2563EB?style=for-the-badge&logo=medium&logoColor=white&labelColor=0a0a0a" alt="Medium" />
+  </a>
+  <br />
+  <sub><b>Articles &amp; Tech Writeups</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  <br />
+  <sub><b>Direct Collaboration</b></sub>
+</td>
+</tr>
 </table>
 
----
-
-## 🎨 Beyond Coding
-
-| 📸 Photography | 🎨 Drawing | 🧶 Crafting | 🤾‍♂️ Handball | 🎮 Carrom | 📚 Reading |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Capturing moments | Artistic expression | Creative projects | Team sports | Strategic games | Knowledge building |
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Prabhakaran-R18/Prabhakaran-R18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:727623bam008@mcet.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhakaran-r18)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabhakaran-R18)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Prabha_1812/)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Prabhakaran-R18&style=for-the-badge&color=00D9FF)
-![Followers](https://img.shields.io/github/followers/Prabhakaran-R18?style=for-the-badge&color=00D9FF&logo=github)
-![Stars](https://img.shields.io/github/stars/Prabhakaran-R18?style=for-the-badge&color=FFD700&logo=github)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%8A;Let's+build+the+future+with+AI!+%F0%9F%A4%96;Open+to+collaborate+on+exciting+projects!+%F0%9F%9A%80;Feel+free+to+reach+out!+%F0%9F%91%8B" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Connect!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" />
-</div>
-
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/Prabhakaran-R18">Prabhakaran R</a> with 💙</sub>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1d4ed8,100:0a0a0a&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" alt="Footer" />
+</p>
